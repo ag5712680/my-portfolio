@@ -1,2 +1,3 @@
 "Hi, I am Ahmad Raza, a Software Engineering student." 
 I am learning Git and GitHub in my Software Project Management Lab. 
+Adding changes from the update-profile branch. 
